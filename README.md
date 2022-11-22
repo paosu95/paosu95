@@ -26,10 +26,6 @@ I am a Full Stack Developer 🎓 graduated from www.soyhenry.com, I am intereste
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="./assets/images/visualStudio.png" alt="react" width="40" height="40"/> </a>  
 <a href="https://docs.github.com/es" target="_blank"> <img src="./assets/images/gitHub.png" alt="react" width="40" height="40"/> </a>  
 
-
-
-
-
 </p>
 
 <br>
