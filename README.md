@@ -1,7 +1,7 @@
 ### Hi there, I am Gina Suarez👋
 <p align="center">
 
-<img src='https://user-images.githubusercontent.com/90468038/203355516-87930c02-0bc6-43b0-b16a-1356fa8bf1b5.mp4' widht= '100' >
+<video src='https://user-images.githubusercontent.com/90468038/203355516-87930c02-0bc6-43b0-b16a-1356fa8bf1b5.mp4' widht= '100' >
 
  </p>
 
