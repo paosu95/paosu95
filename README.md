@@ -5,7 +5,7 @@
  
  <br/>
 <h3>About me 🙋‍♀️ </h3>
-I am a Full Stack Developer from www.soyhenry.com, I am interested in the world of software development and also in the constant learning of new technologies.
+I am a Full Stack Developer from www.soyhenry.com, in which I acquired knowledge in both Frontend and Backend, I am interested in the world of software development and also in the constant learning of new technologies.
 
 <br>
 
