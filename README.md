@@ -1,6 +1,6 @@
 ### Hi there, I am Gina Suarez👋👩‍💻
 <p align="center">
-<img src='./assets/images/gifbanner.gif' height='150px' width='900px'/>
+<img src='./assets/images/gifbanner.gif' height='180px' width='900px'/>
  </p>
  
  <br/>
