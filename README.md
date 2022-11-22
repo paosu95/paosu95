@@ -22,7 +22,7 @@ I am a Full Stack Developer 🎓 graduated from www.soyhenry.com, I am intereste
 </p>
 
 </br>
-<h3>🚀 Proyectos 🚀 </h3>
+<h3>🚀 Proyects 🚀 </h3>
 
 <h3>Sintetico </h3>
 The project consists of a web application to reserve soccer fields, there you can make reservations for fields, buy plans to become a club user and publish your club and make them known to the platform. We handle different technologies in the creation of the project such as:
@@ -54,7 +54,7 @@ The project is about pokemons, you will be able to see different types of pokemo
 
 
 
-<h3>Contactame: </h3>
+<h3>Contact me: </h3>
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/linkedin.png" alt="https://www.linkedin.com/in/gina-suarez/" height="20" width="20"/></a>&nbsp&nbsp<a href="https://www.linkedin.com/in/gina-suarez/" target="_blank">LinkedIn</a></p>
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/gmail.png" alt="ginin_95@hotmail.com" height="20" width="20"/></a>&nbsp ginin_95@hotmail.com</p>
 
