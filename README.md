@@ -1,10 +1,14 @@
 ### Hi there, I am Gina Suarez👋👩‍💻
 <p align="center">
-<img src='./assets/images/gifbanner.gif' height='100px'/>
+<img src='./assets/images/gifbanner.gif' height='200px' width='900px'/>
  </p>
+ 
+ <br/>
 
 
 I am a Full Stack Developer 🎓 graduated from www.soyhenry.com, I am interested in the world of software development and also in the constant learning of new technologies.
+
+<br>
 
 <h3 align="left">Lenguajes y Tecnologias</h3>
 <p align="left"> 
@@ -21,9 +25,15 @@ I am a Full Stack Developer 🎓 graduated from www.soyhenry.com, I am intereste
 <a href="https://git-scm.com/" target="_blank"> <img src="./assets/images/git.png" alt="react" width="40" height="40"/> </a>    
 
 
+
+
 </p>
 
-</br>
+<br>
+
+<hr>
+
+
 <h3>🚀 Proyects 🚀 </h3>
 
 <h3>Sintetico </h3>
@@ -42,20 +52,20 @@ The project consists of a web application to reserve soccer fields, there you ca
  <a href="https://sintetico.vercel.app/" target="_blank"> https://sintetico.vercel.app/</a>
 
  <p align="center">
-<img align="center" width="400px" height="300px" src="./assets/images/canchas.jpeg" alt="home proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/images/publicaciones.jpeg" alt="publicaciones"/>
-<img align="center" width="400px" height="300px" src="./assets/images/estadisticas.jpeg" alt="estadisticas"/>
-<img align="center" width="400px" height="300px" src="./assets/images/pasarelaPago.jpeg" alt="pasarela de pago"/>
-
+<img align="center" width="500px" height="300px" src="./assets/images/canchas.jpeg" alt="home proyecto"/>
+<img align="center" margin-top='50px 'width="500px" height="300px" src="./assets/images/publicaciones.jpeg" alt="publicaciones"/>
+</p>
+<p align="center">
+<img align="center" width="500px" height="300px" src="./assets/images/estadisticas.jpeg" alt="estadisticas"/>
+<img align="center" width="500px" height="300px" src="./assets/images/pasarelaPago.jpeg" alt="pasarela de pago"/>
 </p>
 
+
 </br>
-</br>
 
 
 
-
-<h3>Contact me: </h3>
+<h3> ☎️ Contact me: </h3>
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/linkedin.png" alt="https://www.linkedin.com/in/gina-suarez/" height="20" width="20"/></a>&nbsp&nbsp<a href="https://www.linkedin.com/in/gina-suarez/" target="_blank">LinkedIn</a></p>
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/gmail.png" alt="ginin_95@hotmail.com" height="20" width="20"/></a>&nbsp ginin_95@hotmail.com</p>
 
