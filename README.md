@@ -1,6 +1,8 @@
 ### Hi there, I am Gina Suarez👋
 <p align="center">
-<img src="./assets/images/banner.mp4" alt="banner that says Gina Suarez - Software development enfineer">
+<video src='./assets/images/banner.mp4'>
+
+</video>
  </p>
 
 Soy desarrolladora Full-Stack egresada del bootcamp Henry, con conocimientos en Front-end y Back-end, con preferencia en la parte Front-end para trabajar. Apasionado por seguir aprendiendo, creativa en la resolución de problemas y con buenas experiencias en el trabajo en equipo. 
@@ -25,6 +27,9 @@ Siempre estoy dispuesta a aprender nuevas tecnologías que me permitan seguir cr
 <h3>Sintetico </h3>
  El proyecto consiste en una aplicacion web para reservar canchas de futbol, alli podrás hacer reservaciones de canchas, comprar planes y volverte usuario club para publicar tus canchas y darlas a conocer a la plataforma.
  Manejamos diferentes tecnologias en la creacion del proyecto como:
+
+ </br>
+
  ♦React
  ♦Redux
  ♦Html 
