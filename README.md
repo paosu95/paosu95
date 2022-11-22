@@ -25,7 +25,7 @@ Siempre estoy dispuesta a aprender nuevas tecnologías que me permitan seguir cr
 </br>
 <h3>🚀 Proyectos 🚀 </h3>
 <h3>Sintetico </h3>
- El proyecto consiste en una aplicacion web para reservar canchas de futbol, alli podrás hacer reservaciones de canchas, comprar planes y volverte usuario club para publicar tus canchas y darlas a conocer a la plataforma.
+ El proyecto consiste en una aplicacion web para reservar canchas de futbol, alli podrás hacer reservaciones de canchas, comprar planes para volverte usuario club y publicar tu club y dandolas a conocer a la plataforma.
  Manejamos diferentes tecnologias en la creacion del proyecto como:
 
  </br>
