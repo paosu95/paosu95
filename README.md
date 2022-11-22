@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-<img src="https://github.com/Gina Suarez/random_images/blob/main/alexcamachogz.png?raw=true" alt="banner that says Gina Suarez - Software development enfineer">
+<img src="https://github.com/Gina Suarez/random_images/blob/main/paosu95.png?raw=true" alt="banner that says Gina Suarez - Software development enfineer">
  </p>
 
 Full Stack Developer
