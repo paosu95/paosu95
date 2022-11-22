@@ -19,7 +19,7 @@ Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en 
 <a href="https://sequelize.org/" target="_blank"> <img src="./assets/images/sequelize.png" alt="sequelize" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank"> <img src="./assets/images/postman.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.heroku.com/" target="_blank"> <img src="./assets/images/heroku.png" alt="heroku" width="40" height="40"/> </a> 
+
 </p>
 
 </br>
