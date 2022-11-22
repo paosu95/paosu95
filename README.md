@@ -1,6 +1,6 @@
 ### Hi there, I am Gina Suarez👋
 <p align="center">
-<video src='https://github.com/paosu95/master/assets/images/banner.mp4'>
+<video src='https://github.com/paosu95/master/paosu95/assets/images/banner.mp4'>
 
 </video>
  </p>
