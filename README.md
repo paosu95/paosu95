@@ -1,12 +1,10 @@
-### Hi there, I am Gina Suarez👋
+### Hi there, I am Gina Suarez👋👩‍💻
 <p align="center">
-<video src='./assets/images/banner.mp4'>
-
-</video>
+<img src='./assets/images/gifbanner.gif' width=''/>
  </p>
 
-Soy desarrolladora Full-Stack egresada del bootcamp Henry, con conocimientos en Front-end y Back-end, con preferencia en la parte Front-end para trabajar. Apasionado por seguir aprendiendo, creativa en la resolución de problemas y con buenas experiencias en el trabajo en equipo. 
-Siempre estoy dispuesta a aprender nuevas tecnologías que me permitan seguir creciendo profesionalmente.
+
+I am a Full Stack Developer 🎓 graduated from www.soyhenry.com, I am interested in the world of software development and also in the constant learning of new technologies.
 
 <h3 align="left">Lenguajes y Tecnologias</h3>
 <p align="left"> 
@@ -20,14 +18,14 @@ Siempre estoy dispuesta a aprender nuevas tecnologías que me permitan seguir cr
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank"> <img src="./assets/images/postman.png" alt="react" width="40" height="40"/> </a> 
 
+
 </p>
 
 </br>
 <h3>🚀 Proyectos 🚀 </h3>
-<h3>Sintetico </h3>
- El proyecto consiste en una aplicacion web para reservar canchas de futbol, alli podrás hacer reservaciones de canchas, comprar planes y volverte usuario club para publicar tus canchas y darlas a conocer a la plataforma.
- Manejamos diferentes tecnologias en la creacion del proyecto como:
 
+<h3>Sintetico </h3>
+The project consists of a web application to reserve soccer fields, there you can make reservations for fields, buy plans to become a club user and publish your club and make them known to the platform. We handle different technologies in the creation of the project such as:
  </br>
 
  ♦React
@@ -45,6 +43,14 @@ Siempre estoy dispuesta a aprender nuevas tecnologías que me permitan seguir cr
 <img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/home.png" alt="home proyecto"/>
 <img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/mapa.png" alt="mapa proyecto"/>
 </p>
+
+</br>
+</br>
+
+<h3>Pokemon Api </h3>
+The project is about pokemons, you will be able to see different types of pokemons, you will be able to search for them by name and the strongest ones, also create and eliminate them, each one contains detailed information on its characteristics.
+
+<a href="https://github.com/paosu95/Api-Pokemones " target="_blank">https://github.com/paosu95/Api-Pokemones /</a>
 
 
 
