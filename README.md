@@ -24,6 +24,31 @@ Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en 
 
 </br>
 <h3>🚀 Proyectos 🚀 </h3>
+<h3>Sintetico </h3>
+ El proyecto consiste en una aplicacion web para reservar canchas de futbol, alli podrás hacer reservaciones de canchas, comprar planes y volverte usuario club para publicar tus canchas y darlas a conocer a la plataforma.
+ Manejamos diferentes tecnologias en la creacion del proyecto como:
+ ♦React
+ ♦Redux
+ ♦Html 
+ ♦CSS
+ ♦Scrum
+ ♦Express
+ ♦Sequelize
+ ♦PostgreSQL
+
+ <a href="https://sintetico.vercel.app/" target="_blank"> https://sintetico.vercel.app/</a>
+
+ <p align="center">
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/home.png" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/mapa.png" alt="mapa proyecto"/>
+</p>
+
+
+
+<h3>Contactame: </h3>
+<p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/linkedin.png" alt="https://www.linkedin.com/in/gina-suarez/" height="20" width="20"/></a>&nbsp&nbsp<a href="https://www.linkedin.com/in/gina-suarez/" target="_blank">LinkedIn</a></p>
+<p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/gmail.png" alt="ginin_95@hotmail.com" height="20" width="20"/></a>&nbsp ginin_95@hotmail.com</p>
+
 
 
 
