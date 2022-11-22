@@ -2,7 +2,7 @@
 <p align="center">
 
 <img src='![Azul-y-Púrpura-Lunares-Limpio-Minimalista-Banner-de-Twitch-_2_](https://user-images.githubusercontent.com/90468038/203357759-0b7c133e-c101-4f08-82a7-a1559cb4d9e3.gif)
-' widht= '100' >
+' widht= '100' />
 
  </p>
 
