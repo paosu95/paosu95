@@ -40,8 +40,11 @@ The project consists of a web application to reserve soccer fields, there you ca
  <a href="https://sintetico.vercel.app/" target="_blank"> https://sintetico.vercel.app/</a>
 
  <p align="center">
-<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/home.png" alt="home proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/mapa.png" alt="mapa proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/images/canchas.jpeg" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/images/publicaciones.jpeg" alt="publicaciones"/>
+<img align="center" width="400px" height="300px" src="./assets/images/estadisticas.jpeg" alt="estadisticas"/>
+<img align="center" width="400px" height="300px" src="./assets/images/pasarelaPago.jpeg" alt="pasarela de pago"/>
+
 </p>
 
 </br>
