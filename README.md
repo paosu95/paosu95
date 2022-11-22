@@ -1,8 +1,8 @@
 ### Hi there, I am Gina Suarez👋
 <p align="center">
-<video src='https://github.com/paosu95/master/paosu95/assets/images/banner.mp4'>
 
-</video>
+https://user-images.githubusercontent.com/90468038/203355516-87930c02-0bc6-43b0-b16a-1356fa8bf1b5.mp4
+
  </p>
 
 Soy desarrolladora Full-Stack egresada del bootcamp Henry, con conocimientos en Front-end y Back-end, con preferencia en la parte Front-end para trabajar. Apasionado por seguir aprendiendo, creativa en la resolución de problemas y con buenas experiencias en el trabajo en equipo. 
