@@ -1,7 +1,8 @@
 ### Hi there, I am Gina Suarez👋
 <p align="center">
 
-<video src='https://user-images.githubusercontent.com/90468038/203355516-87930c02-0bc6-43b0-b16a-1356fa8bf1b5.mp4' widht= '100' >
+<img src='![Azul-y-Púrpura-Lunares-Limpio-Minimalista-Banner-de-Twitch-_2_](https://user-images.githubusercontent.com/90468038/203357332-aafb8f9c-73d0-4426-8be1-676346678c9f.gif)
+' widht= '100' >
 
  </p>
 
