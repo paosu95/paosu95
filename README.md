@@ -50,10 +50,6 @@ The project consists of a web application to reserve soccer fields, there you ca
 </br>
 </br>
 
-<h3>Pokemon Api </h3>
-The project is about pokemons, you will be able to see different types of pokemons, you will be able to search for them by name and the strongest ones, also create and eliminate them, each one contains detailed information on its characteristics.
-
-<a href="https://github.com/paosu95/Api-Pokemones " target="_blank">https://github.com/paosu95/Api-Pokemones /</a>
 
 
 
