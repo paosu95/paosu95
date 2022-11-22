@@ -1,12 +1,10 @@
 ### Hi there, I am Gina Suarez👋
 <p align="center">
-<img src="https://github.com/Gina Suarez/random_images/blob/main/paosu95.png?raw=true" alt="banner that says Gina Suarez - Software development enfineer">
+<img src="./assets/images/banner.mp4" alt="banner that says Gina Suarez - Software development enfineer">
  </p>
 
-Full Stack Developer
-Apasionada por la programación y la tecnología 😄😄.
-
-Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
+Soy desarrolladora Full-Stack egresada del bootcamp Henry, con conocimientos en Front-end y Back-end, con preferencia en la parte Front-end para trabajar. Apasionado por seguir aprendiendo, creativa en la resolución de problemas y con buenas experiencias en el trabajo en equipo. 
+Siempre estoy dispuesta a aprender nuevas tecnologías que me permitan seguir creciendo profesionalmente.
 
 <h3 align="left">Lenguajes y Tecnologias</h3>
 <p align="left"> 
