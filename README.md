@@ -6,7 +6,7 @@
  <br/>
 
 
-I am a Full Stack Developer 🎓 graduated from www.soyhenry.com, I am interested in the world of software development and also in the constant learning of new technologies.
+I am a Full Stack Developer from www.soyhenry.com, I am interested in the world of software development and also in the constant learning of new technologies.
 
 <br>
 
@@ -46,7 +46,10 @@ The project consists of a web application to reserve soccer fields, there you ca
  ♦Express
  ♦Sequelize
  ♦PostgreSQL
-
+ ♦Potsman
+ ♦Git
+ ♦GitHub
+ 
  <a href="https://sintetico.vercel.app/" target="_blank"> https://sintetico.vercel.app/</a>
 
  <p align="center">
@@ -62,8 +65,7 @@ The project consists of a web application to reserve soccer fields, there you ca
 </br>
 
 
-
-<h3> ☎️ Contact me: </h3>
+<h3> 💌 Contact me: ⤵️ </h3>
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/linkedin.png" alt="https://www.linkedin.com/in/gina-suarez/" height="20" width="20"/></a>&nbsp&nbsp<a href="https://www.linkedin.com/in/gina-suarez/" target="_blank">LinkedIn</a></p>
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/gmail.png" alt="ginin_95@hotmail.com" height="20" width="20"/></a>&nbsp ginin_95@hotmail.com</p>
 
