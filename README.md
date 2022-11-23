@@ -55,10 +55,7 @@ The project consists of a web application to reserve soccer fields, there you ca
 <img align="center" width="400px" height="300px" src="./assets/images/canchas.jpeg" alt="home proyecto"/>
 <img align="center" width="400px" height="300px" src="./assets/images/publicaciones.jpeg" alt="publicaciones"/>
 </p>
-<p align="center">
-<img align="center" width="400px" height="300px" src="./assets/images/estadisticas.jpeg" alt="estadisticas"/>
-<img align="center" width="400px" height="300px" src="./assets/images/pasarelaPago.jpeg" alt="pasarela de pago"/>
-</p>
+
 
 
 </br>
