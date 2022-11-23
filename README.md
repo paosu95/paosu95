@@ -9,7 +9,7 @@ I am a Full Stack Developer from www.soyhenry.com, in which I acquired knowledge
 
 <br>
 
-<h3 align="left">Lenguajes y Tecnologias</h3>
+<h3 align="left">Lenguajes y Tecnologias 💻</h3>
 <p align="left"> 
 <a href="https://www.javascript.com/" target="_blank"> <img src="./assets/images/js.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="./assets/images/html5.png" alt="html5" width="40" height="40"/> </a> 
